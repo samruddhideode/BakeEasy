@@ -17,7 +17,9 @@
   background-image: linear-gradient(#f8bbd0, #ec407a);
   padding: 0;
 }
-
+.navbar-brand{
+  display:contents;
+}
 .navbar-brand img {
   height: 100px;
   padding-left: 20px;
