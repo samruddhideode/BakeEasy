@@ -59,14 +59,14 @@
 }
 
 .promo-title {
-  font-size: 320%;
+  font-size: 300%;
   font-weight: 600;
-  margin-top: 10px;
+  margin-top: 2%;
 }
 .promo-title-2 {
-  font-size: 250%;
+  font-size: 220%;
   font-weight: 600;
-  margin-top: 10px;
+  margin-top: 2%px;
 }
 
 @media (max-width: 770px) {
